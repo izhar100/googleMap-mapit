@@ -1,0 +1,25 @@
+{
+    "locations": [
+      {
+        "name": "Bengaluru Fort",
+        "lat": 12.9629,
+        "lng": 77.5763
+      },
+      {
+        "name": "Fort E Street",
+        "lat": 12.9600,
+        "lng": 77.5763
+      },
+      {
+        "name": "Fort High School",
+        "lat": 12.9586,
+        "lng": 77.5735
+      },
+      {
+        "name": "West fort hotel",
+        "lat": 12.9790,
+        "lng": 77.5619
+      }
+    ]
+  }
+  
